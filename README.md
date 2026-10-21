@@ -6,6 +6,8 @@ a 120 BPM cue sheet and a fully synthesized score.
 
 `v0.1.0 (beta)` · 1920×1080 · 30 fps · built by agents, rendered by code.
 
+**English** · [简体中文](README.zh-CN.md)
+
 ![the swap](media/stills/formation.png)
 
 ---
