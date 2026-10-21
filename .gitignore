@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+film/build/
+film/out/video_silent.mp4
+film/out/*.png
+film/out/_qa/
+.DS_Store
+Thumbs.db
